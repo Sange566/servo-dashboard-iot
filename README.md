@@ -8,7 +8,8 @@ A real-time **IoT control system** built on Raspberry Pi that uses **physical pu
 
 ## System Architecture
 
-![System Architecture](media/Servor Motor System 2.jpg)
+![System Architecture](media/Servor%20Motor%20System%202.jpg)
+
 
 The architecture integrates three main components working in harmony:
 
